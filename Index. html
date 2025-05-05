@@ -1,0 +1,42 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Happy Birthday Vikas!</title>
+  <style>
+    body {
+      background: linear-gradient(to right, #fbc2eb, #a6c1ee);
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 50px;
+      color: #333;
+    }
+    .card {
+      background: white;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+      display: inline-block;
+    }
+    h1 {
+      color: #ff69b4;
+    }
+    p {
+      font-size: 18px;
+    }
+    .from {
+      margin-top: 30px;
+      font-style: italic;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Happy Birthday, Vikas Devkatte!</h1>
+    <p>Wishing you a day filled with joy, laughter, and unforgettable memories.</p>
+    <p>May this year bring you lots of success, happiness, and love!</p>
+    <div class="from">— From Omkar Gutte!</div>
+  </div>
+</body>
+</html>
